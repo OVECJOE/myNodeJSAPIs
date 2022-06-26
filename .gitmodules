@@ -1,3 +1,6 @@
 [submodule "backend/dating-backend"]
 	path = backend/dating-backend
 	url = git@github.com:OVECJOE/dating-backend
+[submodule "kiddiepad_api"]
+	path = kiddiepad_api
+	url = git@github.com:OVECJOE/kiddiepad_api.git
